@@ -1,0 +1,51 @@
+
+
+h1 {
+  font-size: 2em;
+}
+
+.box {
+  width: 400px;
+  margin: 20px auto;
+  border: 2px solid #000;
+  padding: 10px;
+  text-align: left;
+}
+
+p {
+  width: 100%;
+  height: 100px;
+  margin: 0;
+}
+
+.visible {
+  background-color: coral;
+  width: 200px;
+  height: 65px;
+  border: 1px solid;
+  overflow: visible;
+}
+
+.hidden {
+  background-color: coral;
+  width: 200px;
+  height: 65px;
+  border: 1px solid black;
+  overflow: hidden; 
+}
+
+.scroll {
+  background-color: coral;
+  width: 200px;
+  height: 100px;
+  border: 1px solid black;
+  overflow: scroll;
+}
+
+.auto {
+  background-color: coral;
+  width: 200px;
+  height: 65px;
+  border: 1px solid black;
+  overflow: auto;
+}

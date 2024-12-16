@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    height: 100vh; 
+    position: relative;
+  }
+
+  .box {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+  }
+
+  .top-left {
+    background-color: red;
+    top: 20px;
+    left: 20px;
+  }
+
+  .top-right {
+    background-color: cyan;
+    top: 20px;
+    right: 20px;
+  }
+
+  .bottom-left {
+    background-color: yellowgreen;
+    bottom: 20px;
+    left: 20px;
+  }
+
+  .bottom-right {
+    background-color: yellow;
+    bottom: 20px;
+    right: 20px;
+  }

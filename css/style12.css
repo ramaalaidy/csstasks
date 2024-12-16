@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    direction: rtl; 
+}
+
+h2 {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.outer-box {
+    width: 70%; 
+    padding: 20px; 
+    margin: 20px auto; 
+    border: 3px solid blue; 
+    background-color: #f9f9f9; 
+}
+
+.inner-box {
+    padding: 15px; 
+    border: 2px dashed red; 
+    background-color: #fff; 
+    margin: 10px; /
+}

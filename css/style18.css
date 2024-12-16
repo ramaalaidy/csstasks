@@ -1,0 +1,29 @@
+img {
+    width: 200px;
+    border-radius: 9px;
+
+}
+.div1 {
+    z-index: 0;
+    position: absolute;
+    top: 20px;left: 20px;
+}
+
+.div2 {
+    z-index: 1;
+    top:40px;left: 40;
+    position: absolute;
+}
+
+.div3 {
+    z-index: 2;
+    top:60px;left: 60;
+    position: absolute;
+}
+
+.div4 {
+    z-index: 3;
+    top:60px;left: 60;
+    position: absolute;
+   
+}

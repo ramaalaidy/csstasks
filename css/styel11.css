@@ -1,0 +1,9 @@
+.custom-box {
+    background-color: rgb(179, 216, 228);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+  }
